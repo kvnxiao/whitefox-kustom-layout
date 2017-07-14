@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/main.c.o   -c /home/kvnxiao/kiibohd/controller/main.c",
+  "file": "/home/kvnxiao/kiibohd/controller/main.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Lib/mk20dx.c.o   -c /home/kvnxiao/kiibohd/controller/Lib/mk20dx.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Lib/mk20dx.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Lib/delay.c.o   -c /home/kvnxiao/kiibohd/controller/Lib/delay.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Lib/delay.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Scan/ISSILed/led_scan.c.o   -c /home/kvnxiao/kiibohd/controller/Scan/ISSILed/led_scan.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Scan/ISSILed/led_scan.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Scan/MatrixARM/matrix_scan.c.o   -c /home/kvnxiao/kiibohd/controller/Scan/MatrixARM/matrix_scan.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Scan/MatrixARM/matrix_scan.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Scan/WhiteFox/scan_loop.c.o   -c /home/kvnxiao/kiibohd/controller/Scan/WhiteFox/scan_loop.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Scan/WhiteFox/scan_loop.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Macro/PartialMap/macro.c.o   -c /home/kvnxiao/kiibohd/controller/Macro/PartialMap/macro.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Macro/PartialMap/macro.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Macro/PartialMap/result.c.o   -c /home/kvnxiao/kiibohd/controller/Macro/PartialMap/result.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Macro/PartialMap/result.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Macro/PartialMap/trigger.c.o   -c /home/kvnxiao/kiibohd/controller/Macro/PartialMap/trigger.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Macro/PartialMap/trigger.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/output_com.c.o   -c /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/output_com.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Output/pjrcUSB/output_com.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_desc.c.o   -c /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_desc.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_desc.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_dev.c.o   -c /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_dev.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_dev.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_joystick.c.o   -c /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_joystick.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_joystick.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_keyboard.c.o   -c /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_keyboard.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_keyboard.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_mem.c.o   -c /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_mem.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_mem.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_mouse.c.o   -c /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_mouse.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_mouse.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_rawio.c.o   -c /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_rawio.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_rawio.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/arm/usb_serial.c.o   -c /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_serial.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_serial.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Debug/cli/cli.c.o   -c /home/kvnxiao/kiibohd/controller/Debug/cli/cli.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Debug/cli/cli.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Debug/led/led.c.o   -c /home/kvnxiao/kiibohd/controller/Debug/led/led.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Debug/led/led.c"
+},
+{
+  "directory": "/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc   -I/home/kvnxiao/kiibohd/controller -I/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc    -mcpu=cortex-m4 -DF_CPU=72000000 -D_mk20dx256vlh7_=1 -Os -mthumb -nostdlib -fdata-sections -ffunction-sections -fshort-wchar -fno-builtin -nostartfiles -Wall -ggdb3 -std=gnu11 -MMD -I/home/kvnxiao/kiibohd/controller/Scan/ISSILed -I/home/kvnxiao/kiibohd/controller/Scan/MatrixARM -I/home/kvnxiao/kiibohd/controller/Scan/WhiteFox -I/home/kvnxiao/kiibohd/controller/Macro/PartialMap -I/home/kvnxiao/kiibohd/controller/Output/pjrcUSB -I/home/kvnxiao/kiibohd/controller/Debug/cli -I/home/kvnxiao/kiibohd/controller/Debug/led -I/home/kvnxiao/kiibohd/controller/Debug/print -I/home/kvnxiao/kiibohd/controller/Debug/full -o CMakeFiles/kiibohd.elf.dir/Debug/print/print.c.o   -c /home/kvnxiao/kiibohd/controller/Debug/print/print.c",
+  "file": "/home/kvnxiao/kiibohd/controller/Debug/print/print.c"
+}
+]

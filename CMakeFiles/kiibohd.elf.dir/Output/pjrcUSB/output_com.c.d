@@ -1,0 +1,23 @@
+CMakeFiles/kiibohd.elf.dir/Output/pjrcUSB/output_com.c.o: \
+ /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/output_com.c \
+ /home/kvnxiao/kiibohd/controller/Lib/OutputLib.h \
+ /home/kvnxiao/kiibohd/controller/Lib/mk20dx.h \
+ /home/kvnxiao/kiibohd/controller/Lib/delay.h \
+ /home/kvnxiao/kiibohd/controller/Debug/cli/cli.h \
+ /home/kvnxiao/kiibohd/controller/Lib/MainLib.h \
+ /home/kvnxiao/kiibohd/controller/Lib/Interrupts.h \
+ /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/output_com.h \
+ /home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc/buildvars.h \
+ /home/kvnxiao/kiibohd/controller/Debug/led/led.h \
+ /home/kvnxiao/kiibohd/controller/Debug/print/print.h \
+ /home/kvnxiao/kiibohd/controller/Scan/WhiteFox/scan_loop.h \
+ /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_dev.h \
+ /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_mem.h \
+ /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_desc.h \
+ /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_keyboard.h \
+ /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_serial.h \
+ /home/kvnxiao/kiibohd/controller/Output/pjrcUSB/arm/usb_mouse.h \
+ /home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc/kll_defs.h \
+ /home/kvnxiao/kiibohd/controller/Macro/PartialMap/kll.h \
+ /home/kvnxiao/kiibohd/controller/Macro/PartialMap/macro.h \
+ /home/kvnxiao/kiibohd/controller/Macro/PartialMap/usb_hid.h

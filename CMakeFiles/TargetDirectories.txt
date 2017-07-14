@@ -1,0 +1,5 @@
+/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc/CMakeFiles/kll_regen.dir
+/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc/CMakeFiles/kiibohd.elf.dir
+/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc/CMakeFiles/edit_cache.dir
+/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc/CMakeFiles/SizeAfter.dir
+/home/kvnxiao/kiibohd/controller/Keyboards/WhiteFox.gcc/CMakeFiles/rebuild_cache.dir
